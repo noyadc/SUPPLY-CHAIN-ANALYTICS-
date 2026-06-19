@@ -1,0 +1,5 @@
+product_id,product_name,category,warehouse_id,current_stock,safety_stock,reorder_point,unit_cost,inventory_cost,age_days
+EL-1048,,,CHI-01,118,160,190,1210,142780,18
+HA-2201,,,CHI-01,842,310,390,140,117880,127
+IN-8834,,,DAL-02,64,85,105,570,36480,42
+PK-4412,,,DAL-02,2860,1200,1500,20,57200,16

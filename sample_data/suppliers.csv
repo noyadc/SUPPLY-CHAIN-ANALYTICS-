@@ -1,0 +1,3 @@
+supplier_id,supplier_name,region,delivery_score,quality_score,cost_score,responsiveness_score,defect_rate
+SUP-01,Nexus Components,Taiwan,96,94,87,92,
+SUP-02,Meridian Pack,Mexico,72,79,91,68,
