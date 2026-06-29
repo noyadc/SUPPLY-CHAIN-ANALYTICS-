@@ -1,8 +1,8 @@
-# 🚚 Supply Chain Analytics Platform
+# 🚚 AXIS - Supply Chain Analytics Platform
 
 ## 📌 Overview
 
-The **Supply Chain Analytics Platform** is a full-stack analytics solution that enables organizations to monitor and optimize procurement, inventory, warehousing, logistics, supplier performance, and sales operations through a centralized dashboard.
+The ** AXIS - Supply Chain Analytics Platform** is a full-stack analytics solution that enables organizations to monitor and optimize procurement, inventory, warehousing, logistics, supplier performance, and sales operations through a centralized dashboard.
 
 Users can upload CSV/XLSX datasets and instantly generate actionable insights, KPIs, forecasts, alerts, and performance reports to support data-driven decision-making.
 
